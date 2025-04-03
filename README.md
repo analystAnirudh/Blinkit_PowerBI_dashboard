@@ -1,4 +1,3 @@
-# Blinkit_Analysis_Dashboard
 # 🚀 Blinkit Power BI Dashboard  
 
 ### 📊 **Unveiling Business Insights with Data-Driven Decisions**  
@@ -45,13 +44,3 @@ By leveraging interactive visualizations, this dashboard uncovers key trends and
 
 ---
 
-## 👨‍💻 **Author**  
-**Anirudh Chaudhary**  
-📅 **Year:** 2025  
-📊 **Role:** BI Analyst  
-
----
-
-🔍 **Transforming data into powerful insights, one dashboard at a time!** 🚀  
-
-Let me know if you'd like any refinements! 😊
