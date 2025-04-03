@@ -38,8 +38,8 @@ By leveraging interactive visualizations, this dashboard uncovers key trends and
 ---
 
 ## 🛠 **Tech Stack & Tools**  
-🔹 **Power BI** – Interactive dashboards & visualizations.  
-🔹 **SQL / Python (if applicable)** – Data processing & transformations.  
+🔹 **Power BI** – Interactive dashboards & visualizations , DAX Formulas.  
+🔹 **SQL / Python ** – Data processing & transformations.  
 🔹 **Excel** – Pre-processing & validation.  
 
 ---
