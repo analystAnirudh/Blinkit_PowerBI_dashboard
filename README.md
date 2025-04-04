@@ -42,7 +42,7 @@ By leveraging interactive visualizations, this dashboard uncovers key trends and
 🔹 **SQL / Python ** – Data processing & transformations.  
 🔹 **Excel** – Pre-processing & validation.  
 
-## **Dashboard Report -** [http://127.0.0.1:5500/index.html](url)
+## **Dashboard Report -** [[http://127.0.0.1:5500/index.html](url)]([url](http://127.0.0.1:5500/index.html))
 
 ---
 
