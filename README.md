@@ -1,4 +1,4 @@
-# 🚀 Blinkit Power BI Dashboard  ([url](http://127.0.0.1:5500/index.html))
+# 🚀 Blinkit Power BI Dashboard  ([url](https://analystanirudh.github.io/BLINKIT-DASHBOARD/))
 
 ### 📊 **Unveiling Business Insights with Data-Driven Decisions**  
 
@@ -45,7 +45,7 @@ By leveraging interactive visualizations, this dashboard uncovers key trends and
 🔹 **SQL / Python ** – Data processing & transformations.  
 🔹 **Excel** – Pre-processing & validation.  
 
-## **Dashboard Report -** ([url](http://127.0.0.1:5500/index.html))
+## **Dashboard Report -** ([url](https://analystanirudh.github.io/BLINKIT-DASHBOARD/))
 
 ---
 
