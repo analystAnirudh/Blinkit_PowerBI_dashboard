@@ -6,10 +6,12 @@
 This Power BI dashboard provides a **comprehensive analytical view** of Blinkit’s business operations. It enables data-driven decision-making by analyzing **sales performance, customer behavior, inventory efficiency, and marketing effectiveness**.  
 
 By leveraging interactive visualizations, this dashboard uncovers key trends and actionable insights to enhance **profitability, operational efficiency, and customer satisfaction**.  
+![1](https://github.com/user-attachments/assets/b666bd21-7505-41aa-a092-4078fe2a1694)
 
 ---
 
 ## 🎯 **Key Insights & Features**  
+![2](https://github.com/user-attachments/assets/8f1f0b9c-c106-447e-a2ef-866b2647ff1a)
 
 ✅ **Sales Performance Analysis**  
 - Track revenue growth and identify seasonal trends.  
@@ -26,6 +28,7 @@ By leveraging interactive visualizations, this dashboard uncovers key trends and
 ✅ **Inventory & Stock Optimization**  
 - Monitor stock availability vs. damaged stock levels.  
 - Identify supply chain inefficiencies.  
+![6](https://github.com/user-attachments/assets/462ba363-b070-4c7a-9347-5a55ae5df4d3)
 
 ---
 
