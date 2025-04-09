@@ -1,4 +1,4 @@
-# 🚀 Blinkit Power BI Dashboard  ([]([url](https://analystanirudh.github.io/Blinkit_Portfolio/)))
+# 🚀 Blinkit Power BI Dashboard [https://analystanirudh.github.io/Blinkit_Portfolio/]([url](https://analystanirudh.github.io/Blinkit_Portfolio/))
 
 ### 📊 **Unveiling Business Insights with Data-Driven Decisions**  
 
