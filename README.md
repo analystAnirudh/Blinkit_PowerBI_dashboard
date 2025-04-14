@@ -45,7 +45,7 @@ By leveraging interactive visualizations, this dashboard uncovers key trends and
 🔹 **SQL / Python ** – Data processing & transformations.  
 🔹 **Excel** – Pre-processing & validation.  
 
-## **Dashboard Report -**  https://analystanirudh.github.io/Blinkit_Portfolio/
+## **Dashboard Report -**  [https://analystanirudh.github.io/Blinkit_Portfolio/](https://blinkit-project-anirudh.netlify.app/)
 
 ---
 
